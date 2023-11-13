@@ -1,2 +1,3 @@
 # Private-Cloud
-A private cloud which build by nodejs.
+
+A simple static file server which build by nodejs.
